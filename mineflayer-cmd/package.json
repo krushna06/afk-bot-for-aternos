@@ -1,0 +1,65 @@
+{
+  "_from": "mineflayer-cmd",
+  "_id": "mineflayer-cmd@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-/0bZcfz+hX/t4lmiXM05iatqrwRB9jpU21O9UXUQ0wnnKqjHvS/VdgZITw5MEMvKd2whzdaE0R/ftudITLi3wA==",
+  "_location": "/mineflayer-cmd",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mineflayer-cmd",
+    "name": "mineflayer-cmd",
+    "escapedName": "mineflayer-cmd",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mineflayer-cmd/-/mineflayer-cmd-1.0.2.tgz",
+  "_shasum": "b77e4b75fa0a451b9c22b13379cad457fc3ca3b9",
+  "_spec": "mineflayer-cmd",
+  "_where": "C:\\Users\\mannu\\Downloads\\Projects\\Afk",
+  "author": {
+    "name": "TheDudeFromCI"
+  },
+  "bugs": {
+    "url": "https://github.com/TheDudeFromCI/mineflayer-cmd/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mineflayer": "^2.31.0"
+  },
+  "deprecated": false,
+  "description": "A simple command handler plugin for Mineflayer.",
+  "devDependencies": {
+    "@types/node": "^14.14.7",
+    "require-self": "^0.2.3",
+    "typescript": "^4.0.5"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "homepage": "https://github.com/TheDudeFromCI/mineflayer-cmd#readme",
+  "keywords": [
+    "mineflayer",
+    "plugin",
+    "template"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "mineflayer-cmd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDudeFromCI/mineflayer-cmd.git"
+  },
+  "scripts": {
+    "clean": "rm -rf lib",
+    "prepare": "tsc && require-self"
+  },
+  "types": "lib/index.d.ts",
+  "version": "1.0.2"
+}

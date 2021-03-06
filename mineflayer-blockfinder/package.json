@@ -1,0 +1,59 @@
+{
+  "_from": "mineflayer-blockfinder",
+  "_id": "mineflayer-blockfinder@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-d3xzM1I45fmZBR19Rr/gKKObFOw=",
+  "_location": "/mineflayer-blockfinder",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mineflayer-blockfinder",
+    "name": "mineflayer-blockfinder",
+    "escapedName": "mineflayer-blockfinder",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mineflayer-blockfinder/-/mineflayer-blockfinder-0.0.7.tgz",
+  "_shasum": "777c73335238e5f999051d7d46bfe028a39b14ec",
+  "_spec": "mineflayer-blockfinder",
+  "_where": "C:\\Users\\mannu\\Downloads\\Projects\\Afk",
+  "author": {
+    "name": "Darthfett"
+  },
+  "bugs": {
+    "url": "https://github.com/Darthfett/mineflayer-blockfinder/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mineflayer": "^2.1.0",
+    "vec3": "^0.1.3"
+  },
+  "deprecated": false,
+  "description": "mineflayer plugin which gives bots a function to find the nearest block",
+  "gitHead": "a2f8d6963512aa00d0dc4693badb74fa908976b4",
+  "homepage": "https://github.com/Darthfett/mineflayer-blockfinder#readme",
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "bot",
+    "block",
+    "finder"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mineflayer-blockfinder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darthfett/mineflayer-blockfinder.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "version": "0.0.7"
+}
