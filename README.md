@@ -1,4 +1,4 @@
-Open the [Config.json](https://github.com/krushna06/afk-bot-for-aternos/blob/main/config.json) file.
+Open the [Config.json](https://github.com/krushna06/afk-bot-for-aternos/blob/main/config.json) file and change this.
 `{
 	"ip":"example.aternos.ip",
 	"port": "25565",
