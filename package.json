@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MannuG",
+  "author": "krushna06",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",
