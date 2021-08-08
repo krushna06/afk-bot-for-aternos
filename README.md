@@ -1,6 +1,10 @@
 # aternos-afkbot
-Cool afk bot for my aternos smp server i guess
+Hi, this is a aternos bot which stays afk in your minecraft server.
 
-Adds a bot on your Minecraft server.
-useful for keeping an aternos server alive.
-Used to deploy in Heroku (sorry for broken english)
+#setup
+First of all you need to change the ip in [config file](https://github.com/krushna06/afk-bot-for-aternos/blob/main/config.json).
+```{
+	"ip":"yourip.aternos.me",
+	"port": "25565",
+	"name": "afk bot"
+}```
