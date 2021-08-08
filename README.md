@@ -9,3 +9,7 @@ First of all you need to change the ip in [config file](https://github.com/krush
 	"port": "25565",
 	"name": "afk bot"
 }
+
+```
+Then you need to clone this bot to [Replit](https://replit.com/~)
+Then in console type ```npm install``` after doing this in console type ```node index.js```
