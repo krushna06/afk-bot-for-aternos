@@ -22,3 +22,5 @@ If everything goes correct, this is waht you should see in the console
 #Extra help
 If you are facing any issue then you can join this discord server
 https://discord.gg/et67UY5J5C
+
+*THANK YOU!! :)*
