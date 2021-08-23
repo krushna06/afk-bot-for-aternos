@@ -14,7 +14,7 @@ Don't change the port, you may change the rest of the stuff
 ```
 Then you need to clone this bot to [Replit](https://replit.com/~)
 Then in console type ```npm install``` after doing this in console type ```node index.js```
-If everything goes correct, this is waht you should see in the console
+If everything goes correct, this is what you should see in the console
 
 
 ![image](https://user-images.githubusercontent.com/69315835/128631156-f5e257dd-4748-477c-87f1-d627c853590f.png)
