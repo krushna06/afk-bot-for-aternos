@@ -3,10 +3,11 @@ Hi, this is a aternos bot which stays afk in your minecraft server.
 
 #setup
 First of all you need to change the ip in [config file](https://github.com/krushna06/afk-bot-for-aternos/blob/main/config.json).
+Don't change the port, you may change the rest of the stuff
 ```
 {
 	"ip":"yourip.aternos.me",
-	"port": "25565", Dont change the port
+	"port": "25565",
 	"name": "afk bot"
 }
 
