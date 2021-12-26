@@ -1,6 +1,6 @@
 # aternos-afkbot
 Hi, this is a aternos bot which stays afk in your minecraft server.
-
+A full setup guide is a available at: https://docs.krushna.me so kindly refer to this as the setup below doesn't include hosting.
 #setup
 First of all you need to change the ip in [config file](https://github.com/krushna06/afk-bot-for-aternos/blob/main/config.json).
 Don't change the port, you may change the rest of the stuff
