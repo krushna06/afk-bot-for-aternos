@@ -22,6 +22,6 @@ If everything goes correct, this is what you should see in the console
 
 #Extra help
 If you are facing any issue then you can join this discord server
-https://discord.gg/et67UY5J5C
+https://discord.gg/7AYYyjZ4B8
 
 *THANK YOU!! :)*
