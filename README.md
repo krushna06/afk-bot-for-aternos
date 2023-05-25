@@ -12,8 +12,8 @@ First of all you need to change the ip in [config file](https://github.com/krush
 }
 
 ```
-Then you need to clone this bot to [Replit](https://replit.com/~)
-Then in console type ```npm install``` after doing this in console type ```node index.js```
+Then you need to clone this bot to [Replit](https://replit.com/~) <br>
+Then in console type ```npm install``` after doing this in console type ```node index.js``` <br>
 If everything goes correct, this is what you should see in the console
 
 
@@ -24,6 +24,7 @@ The bot is capable of joining 1.16.5 servers only.
 If your server version is not 1.16.5 then add the following plugins:
 - Viaversion
 - Viarewind
+> Others:
 - If your server has login plugins, kindly whitelist the bot from that.
 - If your server has antibot/ddos protection, kindly whitelist the bot from that.
 
